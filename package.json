@@ -1,0 +1,24 @@
+{
+  "name": "curso-git",
+  "version": "0.0.1",
+  "description": "Repo de prueba git con gulpjs para deploy gh-pages",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-gh-pages": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soycamis/cursoGit.git"
+  },
+  "author": "@soycamis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soycamis/cursoGit/issues"
+  },
+  "homepage": "https://github.com/soycamis/cursoGit#readme"
+}
